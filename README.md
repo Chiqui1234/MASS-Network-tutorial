@@ -17,7 +17,7 @@ Probably you need to bring Admin rights to your Mac/Linux/Windows terminal if yo
 
 MASS doesn't know where is the config.json file, so we'll use **/C** parameter to point it.
 1. Copy *config.json* in this repo to your computer.
-2. Execute following command to start syncing the blockchain.
+2. Execute following command to start syncing the blockchain in *chain* folder.
 
 ```bash
 ./masswallet /C "your/absolute/route/to/config.json"
